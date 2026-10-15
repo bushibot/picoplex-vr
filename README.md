@@ -90,3 +90,9 @@ This runs the full flow in headless Chromium against a mocked plex.tv and PMS:
 - the TV hierarchy
 
 Screenshots go to `tests/shots/`.
+
+## License
+
+GPL-3.0. See [LICENSE](LICENSE). The bundled libraries keep their own licenses: three.js is MIT and hls.js is Apache-2.0 (see [vendor/THIRD_PARTY.md](vendor/THIRD_PARTY.md)).
+
+Not affiliated with or endorsed by Plex, Inc. "Plex" is a trademark of Plex, Inc.
